@@ -1,2 +1,3 @@
-# opencv-js-playground
-OpenCV.js UI 
+# Opencv Playground
+
+Using opencv.js
